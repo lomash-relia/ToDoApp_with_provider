@@ -3,4 +3,4 @@
 ToDo app built using provider state management tool.
 
 Screenshot:
-![HomeScreen](https://drive.google.com/file/d/15Ezjc35wmfMKTmpmketON599W8QE72pm/view?usp=share_link)
+![HomeScreen](https://github.com/lomash-relia/ToDoApp_with_provider/assets/111001555/f8cf07fb-27e1-4810-bcd2-69c651992232)
